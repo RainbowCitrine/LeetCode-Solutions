@@ -29,5 +29,5 @@ int main()
 
     int odds = odd(val1, val2);
 
-    std::cout << "The total odd numbers between value one and two " << odds << std::endl; 
+    std::cout << "The total odd numbers between value one and two is " << odds << std::endl; 
 }
